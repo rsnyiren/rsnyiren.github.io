@@ -2,12 +2,20 @@
 
 Hi! I'm Rachel. This is my personal website.
 
-##Education
+- [About Me](/about.html)
+- [Projects](/projects.html)
+- [Contact](/contact.html)
+[Back to Home](/)
 
-Certification in Data Analytics, Université Paris 1 Panthéon-Sorbonne
-B.A in Economics (Policy Focus with a double minor in anthropology and political science), Loyola University Chicago
+Education
 
-##Some Relevant Coursework 
+- Data Analytics Certification (Energy Analysis), Université Paris 1 Panthéon-Sorbonne
+- B.A in Economics (with double minor in anthropology and political science), Loyola University Chicago
+
+Some Relevant Coursework 
+
 - Advanced Calculus. Statistics. Game Theory. Econometrics. Urban Economics. Environmental Economics. Developmental Economics. 
-- Business Law. Advanced Philosophy. Logic. Political Theory. International Relations.
+- Business Law. Philosophy. Logic. Political Theory. International Relations.
 - Cultural and social anthropology (human culture: how it works, why we have it, cross-cultural differences and similarities, and understanding human behavior).Ethnography. Migration. 
+
+

@@ -1,2 +1,7 @@
+# Rachel Nyirenda
 
-Hello! I'm Rachel. I'm an aspiring data enthusiast who loves to know more about how data can help transform our lives from ambiguity to evidence-based insights. If you would like to connect let me know. 
+Hi! I'm Rachel. This is my personal website.
+
+- [About Me](/about.html)
+- [Projects](/projects.html)
+- [Contact](/contact.html)

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>My Personal Website</title>
   <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; }
+    body { font-family: Calibri, sans-serif; line-height: 1.6; margin: 0; }
     nav { position: fixed; top: 0; width: 100%; background: #f8f8f8; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
     nav a { margin: 0 15px; text-decoration: none; color: #333; }
     section { padding: 80px 20px; min-height: 100vh; }
